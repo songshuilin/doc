@@ -275,7 +275,7 @@ Android是一个开源的，基于Linux的移动设备操作系统， Android是
 
 
 
- ![avatar](/f.jpg)
+ ![avatar](/img/f.jpg)
 
 ### Android 应用程序组件
 
@@ -291,7 +291,7 @@ activity
 
 - activity生命周期
 
-![avatar](/1.gif)
+![avatar](/img/a1.gif)
 
   创建一个Activity。 继承AppCompatActivity就行
 
@@ -338,16 +338,16 @@ activity
 
 - 效果
 
-![avatar](/c.gif)      ![avatar](/d.gif)
+![avatar](/img/c.gif)      ![avatar](/img/d.gif)
 
 - 项目结构 
 
-![avatar](/1.png)  
+![avatar](/img/a1.png)  
 
 - 布局
 
-![avatar](/2.png)  
-![avatar](/3.png)  
+![avatar](/img/a2.png)  
+![avatar](/img/a3.png)  
 
 
 
